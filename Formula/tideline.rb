@@ -1,8 +1,8 @@
 class Tideline < Formula
   desc "Upload and manage private game builds with Tideline"
   homepage "https://www.npmjs.com/package/@neonwavestudios/tideline"
-  url "https://registry.npmjs.org/@neonwavestudios/tideline/-/tideline-0.1.7.tgz"
-  sha256 "27fa8dd38d43b3708a58cff97c6c7fbd4e6f894eee1c78abaea2e15d952231ae"
+  url "https://registry.npmjs.org/@neonwavestudios/tideline/-/tideline-0.1.8.tgz"
+  sha256 "b62295f941ce7ad7477574c3d22e033afacc1d204d9ce46235921aa44a3c9340"
   license "AGPL-3.0-only"
 
   depends_on "node"
